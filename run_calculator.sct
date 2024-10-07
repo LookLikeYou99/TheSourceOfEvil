@@ -1,0 +1,4 @@
+<script language="VBScript">
+    Set WshShell = CreateObject("WScript.Shell")
+    WshShell.Run "calc.exe"
+</script>
